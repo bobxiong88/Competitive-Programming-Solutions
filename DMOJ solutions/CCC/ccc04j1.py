@@ -1,0 +1,1 @@
+print("The largest square has side length",str(int((float(input()))**0.5))+".")

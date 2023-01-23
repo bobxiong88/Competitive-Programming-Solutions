@@ -1,0 +1,1 @@
+print(sum([1 if input()=='P' else 0 for i in range(5)]))

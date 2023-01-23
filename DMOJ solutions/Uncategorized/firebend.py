@@ -1,0 +1,1 @@
+print(sum([abs(int(input())) for i in range(int(input()))]))
